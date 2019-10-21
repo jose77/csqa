@@ -3,7 +3,7 @@
 RoBERTa + KE (single model)
 
 ## Affiliation:
-Anonymous
+Alibaba DAMO NLP
 
 ## Model Description:
 We first finetuned RoBERTa masked lm on the Open Mind Common Sense (OMCS) corpus. 
